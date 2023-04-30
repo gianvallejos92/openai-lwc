@@ -2,6 +2,10 @@
 
 Lightning Web Component that connects open ai to generate blog posts by a subject.
 Author: Gian Vallejos
+Date: 30/04/2023
+
+#Lightning Web Component with ChatGPT
+![plot](./ChatGPT_LWC.PNG)
 
 # Steps to configurate the application
 
@@ -51,4 +55,4 @@ Add Lightning Web Components to your App Page
 
 ## Contact Me
 
-Test it. If there is any problem. Please contact me on: https://www.linkedin.com/in/gianvallejos/
+Test it. If there is any problem. Please contact me on: https://www.linkedin.com/in/gianvallejos/ or "Hablemos de Salesforce" Youtube Channel.
