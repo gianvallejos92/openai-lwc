@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<CustomLabels xmlns="http://soap.sforce.com/2006/04/metadata">
+    <labels>
+        <fullName>OpenAI_API_KEY</fullName>
+        <categories>OpenAI</categories>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>OpenAI_API_KEY</shortDescription>
+        <value>YOUR-API-KEY</value>
+    </labels>
+    <labels>
+        <fullName>OpenAI_endpoint</fullName>
+        <categories>OpenAI</categories>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>OpenAI_endpoint</shortDescription>
+        <value>https://api.openai.com/v1/completions</value>
+    </labels>
+    <labels>
+        <fullName>OpenAI_instruction</fullName>
+        <categories>OpenAI</categories>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>OpenAI_instruction</shortDescription>
+        <value
+    >Escribe un post en español sobre &amp;, debe estar en formato HTML, debe incluir un máximo de 5 puntos, usando un tono informativo.</value>
+    </labels>
+    <labels>
+        <fullName>OpenAI_model</fullName>
+        <categories>OpenAI</categories>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>OpenAI_model</shortDescription>
+        <value>text-davinci-003</value>
+    </labels>
+    <labels>
+        <fullName>OpenAI_temperature</fullName>
+        <categories>OpenAI</categories>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>OpenAI_temperature</shortDescription>
+        <value>0.85</value>
+    </labels>
+</CustomLabels>

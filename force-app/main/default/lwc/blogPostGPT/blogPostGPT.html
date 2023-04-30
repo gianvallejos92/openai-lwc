@@ -1,0 +1,53 @@
+<template>
+  <lightning-card title="Post Generator">
+    <template if:true={showSpinner}>
+      <lightning-spinner
+        alternative-text="Loading"
+        size="medium"
+      ></lightning-spinner>
+    </template>
+    <div class="slds-p-around_x-small">
+      <lightning-input-rich-text
+        value={text}
+        label="Suggested Post"
+        class="textAreaBody"
+      >
+      </lightning-input-rich-text>
+    </div>
+    <div class="slds-grid slds-wrap slds-p-around_x-small">
+      <div class="slds-size_3-of-6 slds-p-horizontal_x-small">
+        <lightning-input
+          type="text"
+          label="Subject"
+          value={subject}
+          onchange={handleSubject}
+        >
+        </lightning-input>
+      </div>
+      <div class="slds-size_1-of-6 slds-p-horizontal_x-small">
+        <lightning-input
+          type="text"
+          value={numberOfWords}
+          label="Number of words"
+          onchange={handleNumberOfWords}
+        >
+        </lightning-input>
+      </div>
+      <div class="slds-size_2-of-6 slds-m-top_large slds-align_absolute-center">
+        <lightning-button
+          onclick={generatePost}
+          variant="brand"
+          label="Generate Post"
+        >
+        </lightning-button>
+        <lightning-button
+          onclick={savePostData}
+          variant="neutral"
+          class="slds-m-left_x-small"
+          label="Save Post"
+        >
+        </lightning-button>
+      </div>
+    </div>
+  </lightning-card>
+</template>

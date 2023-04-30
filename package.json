@@ -33,9 +33,6 @@
   "lint-staged": {
     "**/*.{cls,cmp,component,css,html,js,json,md,page,trigger,xml,yaml,yml}": [
       "prettier --write"
-    ],
-    "**/{aura,lwc}/**": [
-      "eslint"
     ]
   }
 }
