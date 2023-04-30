@@ -63,5 +63,5 @@ Add Lightning Web Components to your App Page
 If there is any problem. Please contact me on:
 
 - [LinkedIn](https://www.linkedin.com/in/gianvallejos/)
-- [Youtube] (https://www.youtube.com/channel/UCDgerzX23aD7PBl57UYtabw)
-- [Blog] (https://www.snakeoncode.com)
+- [Youtube](https://www.youtube.com/channel/UCDgerzX23aD7PBl57UYtabw)
+- [Blog](https://www.snakeoncode.com)
