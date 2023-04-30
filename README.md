@@ -2,7 +2,7 @@
 
 Lightning Web Component that connects open ai to generate blog posts by a subject.
 
-Author: [1]: https://www.linkedin.com/in/gianvallejos/ "Gian Vallejos"
+Author: [Gian Vallejos](https://www.linkedin.com/in/gianvallejos/)
 
 # Description
 
