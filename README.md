@@ -45,6 +45,10 @@ Author: Gian Vallejos
 - Search for "Remote Site Settings"
 - Add the API: https://api.openai.com
 
-## Add Lightning Web Components to your App Page
+## Final Steps:
+
+Add Lightning Web Components to your App Page
+
+## Contact Me
 
 Test it. If there is any problem. Please contact me on: https://www.linkedin.com/in/gianvallejos/
