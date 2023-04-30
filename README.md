@@ -1,8 +1,8 @@
 # Lightning Web Component with OpenAI (ChatGPT)
 
 Lightning Web Component that connects open ai to generate blog posts by a subject.
-Author: Gian Vallejos
-Date: 30/04/2023
+
+Author: [1]: https://www.linkedin.com/in/gianvallejos/ "Gian Vallejos"
 
 # Description
 
