@@ -1,16 +1,18 @@
-# Lightning Web Component with OpenAI
+# Lightning Web Component with OpenAI (ChatGPT)
 
 Lightning Web Component that connects open ai to generate blog posts by a subject.
 Author: Gian Vallejos
 Date: 30/04/2023
 
-# Lightning Web Component with ChatGPT
+# Description
 
-Application to generate Blog Posts selecting a Subject and a number of words. In addition, we can save the records in the Post\_\_c object.
+Application developed with Lightning Web Components to generate Blog Posts. We can set the "Subject" and the desired "Number of Words" of the post.
+
+Also, we can save those post ideas in our Post\_\_c Object.
 
 ![plot](./ChatGPT_LWC.PNG)
 
-# Steps to configurate the application
+# Steps to Configurate the Application
 
 ## Create API_KEY:
 
