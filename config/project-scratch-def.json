@@ -1,6 +1,7 @@
 {
-  "orgName": "Demo company",
+  "orgName": "Blog Post GPT",
   "edition": "Developer",
+  "language": "en_US",
   "features": ["EnableSetPasswordInApi"],
   "settings": {
     "lightningExperienceSettings": {

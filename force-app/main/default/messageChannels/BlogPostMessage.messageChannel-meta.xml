@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<LightningMessageChannel xmlns="http://soap.sforce.com/2006/04/metadata">
+   <masterLabel>BlogPostMessage</masterLabel>
+   <isExposed>true</isExposed>
+   <description
+  >This Lightning Message Channel sends information from Blog Post LWC to Display Posts LWC</description>
+
+   <lightningMessageFields>
+       <fieldName>refreshTable</fieldName>
+       <description>Refresh LWC datatable</description>
+   </lightningMessageFields>
+
+</LightningMessageChannel>
