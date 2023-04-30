@@ -6,7 +6,7 @@
         <language>en_US</language>
         <protected>true</protected>
         <shortDescription>OpenAI_API_KEY</shortDescription>
-        <value>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</value>
+        <value>YOUR-API-KEY</value>
     </labels>
     <labels>
         <fullName>OpenAI_endpoint</fullName>
